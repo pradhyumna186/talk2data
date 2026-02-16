@@ -159,27 +159,9 @@ The flow:
 
 ---
 
-## Creating a demo GIF
+## Demo
 
-1. **Start the app**
-
-   ```bash
-   streamlit run main.py
-   ```
-
-2. **Use a screen recording tool** (e.g. OBS, Kap, or macOS built-in screen recording) to record:
-   - Opening the app in a browser.
-   - Typing a question like "Show total sales by month for 2024".
-   - Clicking **Run analysis**.
-   - Showing the SQL, table, chart, and summary.
-
-3. **Export as GIF** and save it in the project root as `demo.gif`.
-
-4. Optionally, link it in this README:
-
-   ```markdown
-   ![Talk2Data demo](demo.gif)
-   ```
+![Talk2Data demo](demo.gif)
 
 ---
 

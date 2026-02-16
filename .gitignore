@@ -45,6 +45,11 @@ env/
 data/
 *.csv
 
+# Demo files (uncomment if you want to exclude large demo files)
+# *.webm
+# *.mp4
+# demo.gif
+
 # Testing
 .pytest_cache/
 .coverage
